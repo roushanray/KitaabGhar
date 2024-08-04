@@ -11,7 +11,7 @@
  ##   [Live App Demo](https://main--stellar-donut-3a5e64.netlify.app/)
  
  
- ![Alt text](https://github.com/Akshatjalan/Book-store-Reactjs/blob/main/src/assets/Web.jpg?raw=true "Main Page")
+ ![Alt text](https://github.com/roushanray/KitaabGhar/blob/main/src/assets/Web.jpg?raw=true "Main Page")
 
 # Tools Used
 
