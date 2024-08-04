@@ -48,11 +48,11 @@ See the section about [deployment](#deployment) for more information.
 
 ## Contact 
  <h3 align="center">
-  <code> Akshat Jalan </code>
+  <code> Roushan Kumar Ray </code>
 </h3>
   <p align="center"> 
 
-  <a href="https://github.com/Akshatjalan">
+  <a href="https://github.com/roushanray">
     <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Github.svg" width="30" height="30" hspace="20">
   </a>
 
