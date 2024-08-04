@@ -56,14 +56,14 @@ See the section about [deployment](#deployment) for more information.
     <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Github.svg" width="30" height="30" hspace="20">
   </a>
 
-  <a href="https://www.linkedin.com/in/akshat-jalan/">
+  <a href="https://www.linkedin.com/in/roushan-raj-ray-43b2232a0/">
     <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/LinkedIN.svg" width="30" height="30" hspace="20">
   </a>
 
-  <a href="https://www.instagram.com/akshatxjalan/">
+  <a href="https://www.instagram.com/roushan_raj_ray?igsh=ODhneXU1Mm4yaTUx">
     <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Instagram.svg" width="30" height="30" hspace="20">
   </a>
-    <a href="mailto:jalanakshat2@gmail.com">
+    <a href="mailto:roushanrajray708@gmail.com">
     <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Gmail.svg"  width="30" height="30" hspace="20">
   </a>
 
